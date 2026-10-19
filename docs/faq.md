@@ -31,4 +31,4 @@ mediante cuestionarios.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/miCfQekehN4" frameborder="0" allowfullscreen></iframe>
 
-<p><a href="videos/videotutorial_proyecto.mp4">Haz clic aquí para descargar el video</a></p>
+<p><a href="video/videotutorial_proyecto.mp4">Haz clic aquí para descargar el video</a></p>
