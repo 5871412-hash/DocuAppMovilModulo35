@@ -35,3 +35,8 @@ nav:
 - Especificaciones Técnicas:
 - Arquitectura y Despliegue: arquitectura_despliegue.md
 - Especificación de API: api_endpoints.md
+- 
+## Licencia y Gobernanza
+* Este proyecto se distribuye bajo los términos de la **[Licencia MIT](LICENSE)**.
+* Consulta nuestra **[Guía de Contribución](CONTRIBUTING.md)** para reportar fallos o
+proponer mejoras.
