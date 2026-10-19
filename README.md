@@ -19,3 +19,19 @@ Esta es la documentación técnica formal de la aplicación móvil desarrollada 
 - [Ver Manual de Usuario](docs/manual_usuario.md)
 - [Ver Políticas de Seguridad](docs/seguridad.md)
 - [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
+
+
+site_name: Documentación Oficial - Proyecto de Emprendedurismo
+
+site_author: Estudiantes de 3ro Software - Complejo Educativo Delgado
+theme:
+name: material
+language: es
+nav:
+- Inicio: index.md
+- Manual de Usuario UX: manual_usuario_ux.md
+- Centro de Ayuda & Videos:
+- Preguntas Frecuentes (FAQ): faq.md
+- Especificaciones Técnicas:
+- Arquitectura y Despliegue: arquitectura_despliegue.md
+- Especificación de API: api_endpoints.md
